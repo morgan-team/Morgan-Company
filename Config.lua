@@ -1,0 +1,12 @@
+SUDO_ID = {468354860,485130870,421499390,391287250} --آیدی سودو های ربات (ربات cli , api  قرار بدید)
+Full_Sudo = {468354860} -- آیدی سودو اصلی
+TD_ID = 485130870 -- آیدی ربات
+Sudoid = 468354860 -- آیدی سودو اصلی
+BotHelper = 421499390 -- آیدی هلپر
+UserBotHelper = '@' -- یوزرنیم هلپر
+LinkSuppoRt = 'https://t.me/joinchat/G-qHLFJzUTyOx4MREjaFlg' -- لینک گروه ساپورت
+UserSudo = '@shiekh_mamad' -- یوزرنیم سازنده
+PvUserSudo = '@shiekh_mamad' -- پیام رسان سازنده
+Channel = '@morgan_team' -- یوزرنیم کانال 
+ChannelInline = 'morganteam' --یوزنیم کانال بدون @
+token = '421499390:AAHK3xQPcdH9-qIUipPZhBfm04ykt2tmcJE' -- توکن ربات api
