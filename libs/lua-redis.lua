@@ -886,7 +886,7 @@ redis_td_bot =[[
 
 `▪️ گیت هاب :`
 
-"https://github.com/morgan-team/morgan-tm"
+"https://github.com/morgan-team/morgan-team-s"
 
 `▪️ ویرایش شده توسط  :`
 
