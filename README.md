@@ -43,5 +43,6 @@ screen ./Autolaunch
 
 ▪️Edited By : @shiekh_mamad & kiarash_NASA
 
-▪️Special Thanks From : @morgan_team & @morgan_team
+▪️Special Thanks From : @kiarashNASA
+
 Good Luck :)
