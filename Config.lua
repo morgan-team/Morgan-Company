@@ -1,0 +1,12 @@
+SUDO_ID = {418883902,483192878,487846571,} --آیدی سودو های ربات (ربات cli , api  قرار بدید)
+Full_Sudo = {418883902} -- آیدی سودو اصلی
+TD_ID = 483192878 -- آیدی ربات
+Sudoid = 418883902 -- آیدی سودو اصلی
+BotHelper = 487846571 -- آیدی هلپر
+UserBotHelper = '@apiexplorbot' -- یوزرنیم هلپر
+LinkSuppoRt = 'https://t.me/joinchat/G-qHLFJzUTyOx4MREjaFlg' -- لینک گروه ساپورت
+UserSudo = '@RexProgs' -- یوزرنیم سازنده
+PvUserSudo = '@Farzin_Pv_bot' -- پیام رسان سازنده
+Channel = '@ExplorCompany' -- یوزرنیم کانال 
+ChannelInline = 'ExplorCompany' --یوزنیم کانال بدون @
+token = '487846571:AAEO1YVhKCirKr8cKFtzDpx40trlo-IVu6Q' -- توکن ربات api
